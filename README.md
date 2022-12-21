@@ -1,1 +1,1 @@
-# Patika-Javascript-Konusu-Saat-Odevi
+# Patika-Javascript-Saat-Odevi
